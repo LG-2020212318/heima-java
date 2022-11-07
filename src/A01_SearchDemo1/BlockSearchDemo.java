@@ -1,5 +1,5 @@
 package A01_SearchDemo1;
-
+//块查找
 
 public class BlockSearchDemo {
     public static void main(String[] args) {

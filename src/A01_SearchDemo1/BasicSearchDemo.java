@@ -1,7 +1,7 @@
 package A01_SearchDemo1;
 
 import java.util.ArrayList;
-//test
+//基本查找
 
 public class BasicSearchDemo {
     public static void main(String[] args) {
